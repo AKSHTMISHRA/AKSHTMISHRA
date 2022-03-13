@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AKSHTMISHRA
 - 
 - 👀 I’m interested in 
-- Data science
+ Data science
+ 
 - 🌱 I’m currently learning ...
 - django
 - 💞️ I’m looking to collaborate on ...
